@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\hp\\Downloads\\jcalendar-1.4\\lib\\jcalendar-1.4.jar",
+        "c:\\Users\\hp\\Downloads\\json-simple-1.1.1.jar"
+    ]
+}
